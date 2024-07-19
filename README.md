@@ -1,4 +1,4 @@
-# summerintership2024_D22IT210
+# Summer_intership2024_D22IT210
 
 <h2>6th Sem Summer Internship</h2>
 # Android Development Summer Internship 2024 - Project Showcase
